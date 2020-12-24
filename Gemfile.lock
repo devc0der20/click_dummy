@@ -224,7 +224,7 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  bootsnap (>= 1.4.2)
+  bootsnap
   byebug
   capybara (>= 2.15)
   dotenv-rails
@@ -250,3 +250,5 @@ DEPENDENCIES
 RUBY VERSION
    ruby 2.6.6p146
 
+BUNDLED WITH
+   2.2.1
